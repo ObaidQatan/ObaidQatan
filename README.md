@@ -8,10 +8,8 @@
 #### ⚉ 🤩 Amazed by seniors on Github
 #### ⚉ ✨ MVC Fan
 
-#### ⚉ <img width="20px" height="20px" alt="nestjs-logo" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" style="margin-inline: 2px;" /> Playing around with NestJs
-#### ⚉ <img width="20px" height="20px" alt="astro-logo" src="https://astro.build/assets/press/logomark-light.svg" style="background-color: #ffffff30; margin-inline: 2px; border-radius: 5px;" /> Learning Astro
 
-### My Favourite Tools:
-#### - Next.js (React)
-#### - GraphQL
-#### - PostgreSQL
+### My Favourite Stacks:
+#### - T3 App: Best stack for building fullstack web apps with NEXT.js [(look here)](https://create.t3.gg/).
+#### - Redwood JS: Best React framework to work with team in large fullstack web projects. [(look here)](https://redwoodjs.com/).
+#### - Astro + NestJS + TypeORM: Best combination for building scalable and optimized web pages, docs, portfolio, etc. [<img width="20px" height="20px" alt="nestjs-logo" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" style="margin-inline: 2px;" />](https://nestjs.com/) [<img width="20px" height="20px" alt="astro-logo" src="https://astro.build/assets/press/logomark-light.svg" style="background-color: #ffffff30; margin-inline: 2px; border-radius: 5px;" />](https://astro.build/)
